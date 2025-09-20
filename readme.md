@@ -186,9 +186,17 @@ PROJECT_LINK-EXERCISES/
 │   │   └── strategy/
 │   │
 │   └── collaborative/
-│       ├── cross-functional/
-│       ├── hackathon-style/
-│       └── real-world-projects/
+│   |    ├── cross-functional/
+│   |    ├── hackathon-style/
+│   |    └── real-world-projects/
+│   │   
+│   │  
+│   │   
+│   │  
+│   └── MORE UPDATE!!!
+│       
+│       
+│       
 │
 ├── submissions/
 │   ├── [track]/
